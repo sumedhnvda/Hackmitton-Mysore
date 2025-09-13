@@ -1,0 +1,1 @@
+This Repo is a initial setup for Hackmitton 2.0 Mysore Event 

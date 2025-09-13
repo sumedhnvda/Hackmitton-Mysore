@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+numpy
+Pillow
+torch
+torchvision
+scikit-image
+scikit-learn

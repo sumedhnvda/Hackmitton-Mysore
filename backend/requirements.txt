@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+numpy
+scikit-learn
+Pillow
+google-generativeai
+pydantic
+python-multipart
+openai>=1.0.0
+requests
+opencv-python-headless
